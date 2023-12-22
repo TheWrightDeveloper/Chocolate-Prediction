@@ -1,5 +1,5 @@
 # Chocolate Prediction
-##Favors of Cacao
+## Favors of Cacao
 Chocolate is loved by many worldwide. But what makes good chocolate? Chocolatiers, home cooks, and lovers of chocolate eat, use and make chocolate. Knowing where to get good chocolate could make or break a recipe or even a good relationship.
 
 The data comes from the Flavors of Cacao website and their Chocolate Bar Ratings table. The data includes features such as cocoa content, where it was made, bean origin, the number of ingredients, and its characteristics and rating. I will also get the USA Craft Makers table and merge it with the Chocolate Bar Ratings to look more closely at the US Chocolate Companies.
