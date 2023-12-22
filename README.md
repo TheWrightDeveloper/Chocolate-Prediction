@@ -15,12 +15,14 @@ I will look at questions such as:
 * What are the key characteristics of good chocolate?
 
 <br />
-
+<br />
 
 ![Chocolate Prediction](./data/readme/chocolate_prediction.png)
 
+<br />
 <br />
 
 
 ## Built With
 Python, pandas, matplotlib, numpy, seaborn, wordcloud
+
